@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <header>
+        <title>This is the Title</title>
+    </header>
+    <body style="background-color:lightblue; color:lightblue">
+        <h1>This is the Heading</h1>
+        <h2>This is the Heading 2 Element</h2>
+        <p>
+            <strong>I am a bold student of the Tech Academy.</strong>
+        </p>
+        <p>
+            <a href="https://www.learncodinganywhere.com">This is The Tech Academy's Website.</a>
+        </p>
+        <img src="https://www.learncodinganywhere.com/images/tech_logo/The%20Tech%20Academy%20Logo.png" alt="">
+
+    
+    </body>
+
+</html>
